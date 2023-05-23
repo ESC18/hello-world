@@ -2,3 +2,27 @@
     margin: 0;
     padding: 0;
 }
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:orange;
+    text-align: center;
+}
+body {
+    background-color:rgb(70, 7, 70);
+    padding-left: 50px;
+    display: flexbox;
+
+}
+h2, p{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(205, 29, 29);
+    padding-bottom: 7px;
+}
+ul{
+    list-style: none;
+    color: rgb(27, 211, 150);
+    font-size: 20px;
+    
+}
