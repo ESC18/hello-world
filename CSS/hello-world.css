@@ -24,5 +24,8 @@ ul{
     list-style: none;
     color: rgb(27, 211, 150);
     font-size: 20px;
-    
+}
+.anchor {
+    color: cadetblue;
+    font-size: 30px;
 }
